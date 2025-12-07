@@ -1,5 +1,10 @@
 # SGEMAS: Self-Growing Ephemeral Multi-Agent System
 
+![License](https://img.shields.io/badge/License-MIT-yellow.svg)
+![Python](https://img.shields.io/badge/python-3.8+-blue.svg)
+![Status](https://img.shields.io/badge/Status-Research-orange.svg)
+![InnoDeep](https://img.shields.io/badge/InnoDeep-DeepTech-green.svg)
+
 **Official Implementation for the paper:**  
 *"SGEMAS: A Self-Growing Ephemeral Multi-Agent System for Unsupervised Online Anomaly Detection via Entropic Homeostasis"*
 
