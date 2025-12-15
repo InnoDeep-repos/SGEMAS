@@ -1,6 +1,6 @@
 # 🧠 SGEMAS: Self-Growing Ephemeral Multi-Agent System
 
-![SmartDiag Platform](assets/smartDia-Sgema.png)
+![SmartDiag Platform](smartDia-Sgema.png)
 
 [![License](https://img.shields.io/badge/license-Patent%20Pending-red.svg)](LICENSE)
 [![Status](https://img.shields.io/badge/status-active-success)]()
