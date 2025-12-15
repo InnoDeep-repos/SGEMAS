@@ -21,6 +21,12 @@ Unlike traditional AI that burns constant power (always-on), SGEMAS follows a me
 *   **Dormancy ($N=1$):** 96% of the time, the system consumes negligible resources.
 *   **Reaction ($N=39$):** It structurally recruits agents *only* when the signal entropy rises (e.g., Arrhythmia).
 
+### 💡 What is an "Agent"? The 3 Perspectives
+
+*   **📐 Mathematical:** A dynamic **Lagrangian Multiplier**. Each agent is an equation spawned to minimize local Free Energy ($F$) and cancel out the entropy of the anomaly.
+*   **💻 Computational:** A **Just-in-Time Micro-Thread**. Unlike static Neurons, agents are ephemeral predictive kernels allocated dynamically. No anomaly = Zero memory usage.
+*   **🧬 Biological:** A **Digital Immune Response**. Like white blood cells, agents are recruited massively from the bloodstream (memory) only when a pathogen (pathology) is detected to restore Homeostasis.
+
 ### Visual Proof: Patient 11243 (Arrhythmia)
 ![Wake-on-Crisis Trace](SGEMAS_V46_Trace_11243.0_Arythmie.png)
 *Panel C (Green) shows the agents waking up only for the specific anomaly spikes.*
