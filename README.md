@@ -8,7 +8,7 @@
 
 > **"Wake-on-Crisis" AI for Ultra-Low-Power Medical Implants.**
 
-**SGEMAS** is a bio-inspired, thermodynamic anomaly detection architecture designed to solve the energy crisis in implantable medical devices (Pacemakers, ILRs). It replaces static Deep Learning models with a dynamic, self-organizing agent topology that remains dormant during homeostasis and only wakes up during pathological events.
+**SGEMAS** is a bio-inspired, thermodynamic anomaly detection architecture designed to solve the energy crisis **and enable Precision Medicine** in implantable medical devices (Pacemakers, ILRs). It replaces static Deep Learning models with a dynamic, self-organizing agent topology that remains dormant during homeostasis, **learns patient-specific physiology**, and only wakes up during pathological events.
 
 > ⚠️ **Note:** The core algorithm is currently **Patent Pending**. This repository serves as a technical showcase and validation suite. The full implementation is deployed within our **SmartDiag** clinical platform.
 
