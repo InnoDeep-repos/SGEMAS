@@ -22,7 +22,7 @@ Unlike traditional AI that burns constant power (always-on), SGEMAS follows a me
 *   **Reaction ($N=39$):** It structurally recruits agents *only* when the signal entropy rises (e.g., Arrhythmia).
 
 ### Visual Proof: Patient 11243 (Arrhythmia)
-![Wake-on-Crisis Trace](assets/SGEMAS_V46_Trace_11243.0_Arythmie.png)
+![Wake-on-Crisis Trace](SGEMAS_V46_Trace_11243.0_Arythmie.png)
 *Panel C (Green) shows the agents waking up only for the specific anomaly spikes.*
 
 ---
@@ -33,11 +33,11 @@ We validated the system on the **MIT-BIH Arrhythmia Database** (N=48 Patients, I
 
 ### 1. Thermodynamic Phase Space
 Pathologies are detected not just as statistical outliers, but as **physical ruptures** in the metabolic field.
-![Phase Space](assets/SGEMAS_Result_Optimized_w20.png)
+![Phase Space](SGEMAS_Result_Optimized_w20.png)
 *(Red: Pathological / Green: Normal)*
 
 ### 2. Synthetic Stress-Test
-![Synthetic Analysis](assets/SGEMAS_Synthetic.png)
+![Synthetic Analysis](SGEMAS_Synthetic.png)
 *Demonstration of the system tracking a chaotic synthetic signal with adaptive swarm density.*
 
 ---
