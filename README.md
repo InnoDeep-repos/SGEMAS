@@ -30,6 +30,15 @@ Unlike traditional AI that burns constant power (always-on), SGEMAS follows a me
 *   **💻 Computational:** A **Just-in-Time Micro-Thread**. Unlike static Neurons, agents are ephemeral predictive kernels allocated dynamically. No anomaly = Zero memory usage.
 *   **🧬 Biological:** A **Digital Immune Response**. Like white blood cells, agents are recruited massively from the bloodstream (memory) only when a pathogen (pathology) is detected to restore Homeostasis.
 
+### 📐 Governing Equations
+The system is driven by a thermodynamic cost function (**Metabolic Energy $\mathcal{E}$**) that balances prediction accuracy against computational resources:
+
+$$ \mathcal{E}_t = \Pi \cdot |x_t - \mu_t| - \gamma \cdot N_t $$
+
+Where $\Pi$ is the **Sensory Gain** (Entropy), $\mu_t$ the homeostasis, and $N_t$ the agent population. The system recruits agents only when the energy ruptures the equilibrium:
+
+$$ \Delta N_t \propto \mathbb{1}(\mathcal{E}_t > \mathcal{E}_{crisis}) $$
+
 ### Visual Proof: Patient 11243 (Arrhythmia)
 ![Wake-on-Crisis Trace](SGEMAS_V46_Trace_11243.0_Arythmie.png)
 *Panel C (Green) shows the agents waking up only for the specific anomaly spikes.*
