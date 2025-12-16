@@ -1,10 +1,13 @@
 # 🧠 SGEMAS: Self-Growing Ephemeral Multi-Agent System
 > **"Wake-on-Crisis" AI: Smart, Adaptive & Ultra-Low-Power for Medical Implants.**
-*This repository is intended as a technical and scientific showcase of the SGEMAS architecture.*
+
 [![License](https://img.shields.io/badge/license-Patent%20Pending-red.svg)](LICENSE)
 [![Status](https://img.shields.io/badge/status-active-success)]()
 [![Platform](https://img.shields.io/badge/platform-SmartDiag-green)]()
 ![SmartDiag Platform](smartDiag-Sgema.png)
+
+*This repository is intended as a technical and scientific showcase of the SGEMAS architecture.*
+
 
 
 
