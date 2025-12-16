@@ -67,6 +67,28 @@ SGEMAS is the core "Precision Engine" behind **SmartDiag**, our clinical monitor
 
 ---
 
+## 🔐 SGEMAS – Evaluation Access
+
+SGEMAS is currently available **free of charge, upon request**, for **industrial, clinical, and healthcare partners** as part of a controlled evaluation program.
+
+This program is intended to:
+* validate system behavior under real-world conditions,
+* assess compatibility with clinical and industrial constraints,
+* collect structured feedback from expert users.
+
+**Access Conditions**
+* Limited access subject to prior validation.
+* Use restricted to research, evaluation, or demonstration purposes only.
+* Data handled under the partner’s governance and applicable regulations.
+
+**Disclaimer**
+SGEMAS is a research and technology evaluation system.
+It **is not a medical device** and **is not intended for diagnostic or therapeutic use**.
+
+👉 *To request access, please contact us.*
+
+---
+
 ## 📜 Contact & Licensing
 
 For partnership inquiries or access to the full SDK:
