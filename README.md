@@ -1,4 +1,4 @@
-# 🧠 SGEMAS V6: Hybrid Thermodynamic AI Engine
+# 🧠 SGEMAS : Hybrid Thermodynamic AI Engine
 
 [![License](https://img.shields.io/badge/license-Patent%20Pending-red.svg)](LICENSE)
 [![Status](https://img.shields.io/badge/status-active-success)]()
@@ -7,13 +7,13 @@
 
 > **"Wake-on-Crisis" AI with Hybrid Physio-Gate: Smart, Adaptive & Ultra-Low-Power.**
 
-*This repository is intended as a technical and scientific showcase of the SGEMAS V6 architecture.*
+*This repository is intended as a technical and scientific showcase of the SGEMAS  architecture.*
 
 ![SmartDiag Platform](smartDiag-Sgema.png)
 
 **SGEMAS** is a bio-inspired, thermodynamic anomaly detection architecture designed to solve the energy crisis **and enable Precision Medicine** in implantable medical devices. It replaces static Deep Learning models with a dynamic, self-organizing agent topology that remains dormant during homeostasis and only wakes up during pathological events.
 
-**New in V6:** The **Hybrid SQI (Signal Quality Index)** engine acts as a "Physio-Gate", filtering technical noise to achieve clinical-grade precision.
+**New in   :** The **Hybrid SQI (Signal Quality Index)** engine acts as a "Physio-Gate", filtering technical noise to achieve clinical-grade precision.
 
 > ⚠️ **Note:** The core algorithm is currently **Patent Pending**. This repository serves as a technical showcase.
 
@@ -46,8 +46,8 @@ Where **Π** is the Sensory Gain (Entropy), **μ_t** the homeostasis, and **N_t*
 
 We validated the system on the large-scale **PTB-XL Database**.
 
-### 1. Hybrid V6 Performance
-| Metric | SGEMAS V6 (Hybrid) | SOTA Deep Learning | Impact |
+### 1. Hybrid  Performance
+| Metric | SGEMAS (Hybrid) | SOTA Deep Learning | Impact |
 | :--- | :--- | :--- | :--- |
 | **Global Accuracy** | **61.0%** | 52.6% | **+16% Superiority** |
 | **Precision (Healthy)** | **89.0%** | N/A | **Trustworthy Silence** |
