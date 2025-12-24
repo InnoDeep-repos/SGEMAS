@@ -3,6 +3,7 @@
 [![License](https://img.shields.io/badge/license-Patent%20Pending-red.svg)](LICENSE)
 [![Status](https://img.shields.io/badge/status-active-success)]()
 [![Platform](https://img.shields.io/badge/platform-SmartDiag-green)]()
+[![ArXiv](https://img.shields.io/badge/arXiv-2512.14708-B31B1B.svg)](https://arxiv.org/html/2512.14708v1)
 
 > **"Wake-on-Crisis" AI: Smart, Adaptive & Ultra-Low-Power for Medical Implants.**
 
